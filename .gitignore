@@ -1,0 +1,20 @@
+# Maven
+target/
+*.log
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Spring Boot temp files
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
